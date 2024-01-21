@@ -5,11 +5,11 @@
    <li><a href="https://www.curseforge.com/members/cmdrmcnuggets/projects" target="_blank">CmdrMCNuggets</a></li>
    <li><a href="https://www.curseforge.com/members/nocubeyt/projects" target="_blank">nocubeyt</a></li>
 </ul>
+
+
+
+
 <br>
-
-
-
-
 <ul>
    <li><a href="https://www.curseforge.com/members/su5ed/projects" target="_blank">Su5eD</a></li>
    <ul>
@@ -155,11 +155,11 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/lixir/" target="_blank">lixir</a></li>
+   <li><a href="https://www.curseforge.com/members/lixir/projects" target="_blank">lixir</a></li>
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/hypothermic/projects" target="_blank">Hypothermic</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/hypothermic" target="_blank">Hypothermic</a></li>
       </ul>
    </ul>
 </ul>
@@ -239,7 +239,7 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/queenofmissiles/projects target="_blank">QueenOfMissiles</a></li>
+   <li><a href="https://www.curseforge.com/members/queenofmissiles/projects" target="_blank">QueenOfMissiles</a></li>
    <ul>
       <li>Mods</li>
       <ul>
@@ -691,7 +691,7 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/fuzs/projects" target="_blank"></a>Fuzs</li>
+   <li><a href="https://www.curseforge.com/members/fuzs/projects" target="_blank">Fuzs</a></li>
    <ul>
       <li>Mods</li>
       <ul>
@@ -700,6 +700,7 @@
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/illager-invasion" target="_blank">Illager Invasion [Forge & Fabric]</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier" target="_blank">Pick Up Notifier [Forge & Fabric]</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric" target="_blank">Forge Config API Port</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/diagonal-fences" target="_blank">Diagonal Fences [Forge & Fabric]</a></li>
       </ul>
    </ul>
 </ul>
@@ -2148,11 +2149,12 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/hammertater/projects" target="_blank"></a></li>
+   <li><a href="https://www.curseforge.com/members/hammertater/projects" target="_blank">hammertater</a></li>
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/treechop" target="_blank"></a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/treechop" target="_blank">HT's TreeChop</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/treeplant" target="_blank">HT's TreePlant</a></li>
       </ul>
    </ul>
 </ul>
@@ -2162,11 +2164,12 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/conczin/projects" target="_blank">hammertater</a></li>
+   <li><a href="https://www.curseforge.com/members/conczin/projects" target="_blank">Conczin</a></li>
    <ul>
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-paintings" target="_blank">Immersive Paintings [Fabric/Forge]</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft" target="_blank">Immersive Aircraft [Fabric/Forge]</a></li>
       </ul>
    </ul>
 </ul>
@@ -2550,20 +2553,6 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/hammertater/projects" target="_blank">hammertater</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/treeplant" target="_blank">HT's TreePlant</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
    <li><a href="https://www.curseforge.com/members/almightytallestred/projects" target="_blank">almightytallestred</a></li>
    <ul>
       <li>Mods</li>
@@ -2704,10 +2693,10 @@
 
 
 <ul>
-   <li><a href="https://www.planetminecraft.com/member/kubban/" target="_blank">Kubban</a></li>
+   <li><a href="https://www.planetminecraft.com/member/kubban/projects" target="_blank">Kubban</a></li>
    <ul>
-      <li>Res
-         <li><a href="https://www.planetminecraft.com/texture-pack/mythical-forest/" target="_blank">Mythical Forest!</a></li>
+      <li>Resource Packs</li>
+      <li><a href="https://www.planetminecraft.com/texture-pack/mythical-forest/" target="_blank">Mythical Forest!</a></li>
       </ul>
    </ul>
 </ul>
@@ -2942,20 +2931,6 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/fuzs/projects" target="_blank">Fuzs</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/diagonal-fences" target="_blank">Diagonal Fences [Forge & Fabric]</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
    <li><a href="https://www.curseforge.com/members/ji_ggo/projects" target="_blank">ji_GGO</a></li>
    <ul>
       <li>Mods</li>
@@ -3144,20 +3119,6 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/imblockerfabric" target="_blank">IMBlockerFabric</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/conczin/projects" target="_blank">Conczin</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft" target="_blank">Immersive Aircraft [Fabric/Forge]</a></li>
       </ul>
    </ul>
 </ul>
