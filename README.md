@@ -58,16 +58,15 @@
    <ul>
       <li>Mods</li>
       <ul>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/amplified-nether" target="_blank">Amplified Nether</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/amplified-nether" target="_blank">Amplified Nether</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/terralith" target="_blank">Terralith</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/continents" target="_blank">Continents</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/incendium" target="_blank">Incendium</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/continents" target="_blank">Continents</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/incendium" target="_blank">Incendium</a></li>
    <ul>
       <li>Customization</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/customization/remove-terralith-intro-message" target="_blank">Remove Terralith Intro Message</a></li>
       </ul>
-   </ul>
    </ul>
 </ul>
 <br>
@@ -80,25 +79,25 @@
    <ul>
       <li>Mods</li>
       <ul>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments" target="_blank">YUNG's Better Ocean Monuments (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge" target="_blank">YUNG's Better Mineshafts (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-api" target="_blank">YUNG's API (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-menu-tweaks" target="_blank">YUNG's Menu Tweaks (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples" target="_blank">YUNG's Better Jungle Temples (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses" target="_blank">YUNG's Better Nether Fortresses (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-bridges" target="_blank">YUNG's Bridges (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-extras" target="_blank">YUNG's Extras (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts" target="_blank">YUNG's Better Witch Huts (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island" target="_blank">YUNG's Better End Island (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples" target="_blank">YUNG's Better Desert Temples (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons" target="_blank">YUNG's Better Dungeons (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds" target="_blank">YUNG's Better Strongholds (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/paxi" target="_blank">Paxi (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/travelers-titles" target="_blank">Traveler's Titles (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-portals" target="_blank">YUNG's Better Portals (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves" target="_blank">YUNG's Better Caves (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold" target="_blank">Save My Stronghold! (Forge)</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-law" target="_blank">YUNG's Law (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments" target="_blank">YUNG's Better Ocean Monuments (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge" target="_blank">YUNG's Better Mineshafts (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-api" target="_blank">YUNG's API (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-menu-tweaks" target="_blank">YUNG's Menu Tweaks (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples" target="_blank">YUNG's Better Jungle Temples (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses" target="_blank">YUNG's Better Nether Fortresses (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-bridges" target="_blank">YUNG's Bridges (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-extras" target="_blank">YUNG's Extras (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts" target="_blank">YUNG's Better Witch Huts (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island" target="_blank">YUNG's Better End Island (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples" target="_blank">YUNG's Better Desert Temples (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons" target="_blank">YUNG's Better Dungeons (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds" target="_blank">YUNG's Better Strongholds (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/paxi" target="_blank">Paxi (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/travelers-titles" target="_blank">Traveler's Titles (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-portals" target="_blank">YUNG's Better Portals (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves" target="_blank">YUNG's Better Caves (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold" target="_blank">Save My Stronghold! (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-law" target="_blank">YUNG's Law (Forge)</a></li>
       </ul>
    </ul>
 </ul>
@@ -107,7 +106,6 @@
 
 
 
-<br>
 <ul>
    <li><a href="https://www.curseforge.com/members/qouteall/projects" target="_blank">qouteall</a></li>
    <ul>
@@ -122,7 +120,6 @@
 
 
 
-<br>
 <ul>
    <li><a href="https://www.curseforge.com/members/su5ed/projects" target="_blank">Su5eD</a></li>
    <ul>
@@ -731,7 +728,7 @@
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/selene" target="_blank">Moonlight Lib</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/supplementaries" target="_blank">Supplementaries</a></li>
-		 <li><a href="https://www.curseforge.com/minecraft/mc-mods/map-atlases-forge" target="_blank">Map Atlases [Forge]</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/map-atlases-forge" target="_blank">Map Atlases [Forge]</a></li>
       </ul>
    </ul>
 </ul>
