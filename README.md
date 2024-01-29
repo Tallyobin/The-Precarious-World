@@ -5,6 +5,7 @@
    <li><a href="https://www.curseforge.com/members/cmdrmcnuggets/projects" target="_blank">CmdrMCNuggets</a></li>
    <li><a href="https://www.curseforge.com/members/nocubeyt/projects" target="_blank">nocubeyt</a></li>
 </ul>
+<br>
 
 
 
@@ -63,6 +64,7 @@
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/continents" target="_blank">Continents</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/incendium" target="_blank">Incendium</a></li>
       </ul>
+      <br>
       <li>Customization</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/customization/remove-terralith-intro-message" target="_blank">Remove Terralith Intro Message</a></li>
