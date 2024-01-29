@@ -1054,6 +1054,7 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/visuality" target="_blank">Visuality</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/villager-hats-mod" target="_blank">Villager Hats Mod</a></li>
       </ul>
    </ul>
 </ul>
@@ -3103,6 +3104,7 @@
       </ul>
    </ul>
 </ul>
+<br>
 
 
 
@@ -3116,28 +3118,168 @@
       </ul>
    </ul>
 </ul>
+<br>
+
 
 
 
 <ul>
-   <li><a href="" target="_blank"></a></li>
+   <li><a href="https://www.curseforge.com/members/dimensionaldevelopment/projects" target="_blank">DimensionalDevelopment</a></li>
    <ul>
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors" target="_blank">DimensionalDoors</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/dainxt/projects" target="_blank">dainxt</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/weapon-throw" target="_blank">Weapon Throw</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/northwestwindnww/projects" target="_blank">NorthWestWindNWW</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/throwable-everything" target="_blank">Throwable Everything</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/alrex_u/projects" target="_blank">alRex_U</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/throwability" target="_blank">Throwability</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/_forgeuser9892496/projects" target="_blank">_ForgeUser9892496</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/bukkit-plugins/tomahawk" target="_blank">TomaHawk</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/iron-door-key" target="_blank">Iron Door Key</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/dertoaster_98/projects" target="_blank">dertoaster_98</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/crossbowverhaul" target="_blank">Crossbowverhaul</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.planetminecraft.com/member/wackywow/" target="_blank">wackywow</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
          <li><a href="https://www.planetminecraft.com/texture-pack/iron-door-jail-door/" target="_blank">Iron Door - Jail Door (trapdoor added)</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/yourdailymodderx/projects" target="_blank">YourDailyModderx</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master" target="_blank">YDM's Weapon Master</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/terrariumearth/projects" target="_blank">terrariumearth</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/chipped" target="_blank">Chipped</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/mars/projects" target="_blank">Mars</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/more-mc-music-discs" target="_blank">More Music Discs [Fabric/Forge]</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/ryfi_coder/projects" target="_blank">ryfi_coder</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/chatheads" target="_blank">ChatHeads</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/somi_e/projects" target="_blank">Somi_e</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/texture-packs/somies-variable-hats" target="_blank">Somie's variable hats</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/villager-hats-mod" target="_blank">Villager Hats Mod</a></li>
       </ul>
    </ul>
 </ul>
