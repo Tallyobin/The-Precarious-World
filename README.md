@@ -62,7 +62,7 @@
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/terralith" target="_blank">Terralith</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/continents" target="_blank">Continents</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/incendium" target="_blank">Incendium</a></li>
-   <ul>
+      </ul>
       <li>Customization</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/customization/remove-terralith-intro-message" target="_blank">Remove Terralith Intro Message</a></li>
@@ -3136,6 +3136,9 @@
 
 <ul>
    <li><a href="https://www.curseforge.com/members/dainxt/projects" target="_blank">dainxt</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/weapon-throw" target="_blank">Weapon Throw</a></li>
       </ul>
    </ul>
