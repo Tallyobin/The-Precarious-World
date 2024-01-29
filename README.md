@@ -109,11 +109,11 @@
 
 <br>
 <ul>
-   <li><a href="https://www.curseforge.com/members/qouteall/projects" target="_blank">Su5eD</a></li>
+   <li><a href="https://www.curseforge.com/members/qouteall/projects" target="_blank">qouteall</a></li>
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod" target="_blank">Sinytra Connector</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod" target="_blank">Immersive Portals</a></li>
       </ul>
    </ul>
 </ul>
@@ -3119,20 +3119,25 @@
 
 
 
-
-https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors
-https://www.curseforge.com/minecraft/mc-mods/weapon-throw
-https://www.curseforge.com/minecraft/mc-mods/throwable-everything
-https://www.curseforge.com/minecraft/mc-mods/throwability
-https://www.curseforge.com/minecraft/bukkit-plugins/tomahawk
-https://www.curseforge.com/minecraft/mc-mods/iron-door-key
-https://www.curseforge.com/minecraft/mc-mods/crossbowverhaul
-https://www.planetminecraft.com/texture-pack/iron-door-jail-door/
-https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master/screenshots
-https://www.curseforge.com/minecraft/mc-mods/chipped
-https://www.curseforge.com/minecraft/mc-mods/more-mc-music-discs
-https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master
-https://www.curseforge.com/minecraft/mc-mods/chat-heads
-https://www.curseforge.com/minecraft/mc-mods/chatheads
-https://www.curseforge.com/minecraft/texture-packs/somies-variable-hats
-https://www.curseforge.com/minecraft/mc-mods/villager-hats-mod
+<ul>
+   <li><a href="" target="_blank"></a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors" target="_blank">DimensionalDoors</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/weapon-throw" target="_blank">Weapon Throw</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/throwable-everything" target="_blank">Throwable Everything</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/throwability" target="_blank">Throwability</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/bukkit-plugins/tomahawk" target="_blank">TomaHawk</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/iron-door-key" target="_blank">Iron Door Key</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/crossbowverhaul" target="_blank">Crossbowverhaul</a></li>
+         <li><a href="https://www.planetminecraft.com/texture-pack/iron-door-jail-door/" target="_blank">Iron Door - Jail Door (trapdoor added)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master" target="_blank">YDM's Weapon Master</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/chipped" target="_blank">Chipped</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/more-mc-music-discs" target="_blank">More Music Discs [Fabric/Forge]</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/chatheads" target="_blank">ChatHeads</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/somies-variable-hats" target="_blank">Somie's variable hats</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/villager-hats-mod" target="_blank">Villager Hats Mod</a></li>
+      </ul>
+   </ul>
+</ul>
