@@ -1,11 +1,7 @@
 # Authors
-<ul>
-   <li><a href="https://www.curseforge.com/members/philipmoddev/projects" target="_blank">philipmoddev</a></li>
-   <li><a href="https://www.curseforge.com/members/creepermax123/projects" target="_blank">creepermax123</a></li>
-   <li><a href="https://www.curseforge.com/members/cmdrmcnuggets/projects" target="_blank">CmdrMCNuggets</a></li>
-   <li><a href="https://www.curseforge.com/members/nocubeyt/projects" target="_blank">nocubeyt</a></li>
-</ul>
-<br>
+
+
+
 
 <ul>
    <li><a href="https://www.curseforge.com/members/bstn/projects" target="_blank">bstn</a></li>
@@ -17,7 +13,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -274,7 +269,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.curseforge.com/members/arkfeathers/projects" target="_blank">arkfeathers</a></li>
    <ul>
@@ -331,7 +325,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.curseforge.com/members/skyrina/projects" target="_blank">skyrina</a></li>
    <ul>
@@ -370,7 +363,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -417,7 +409,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.curseforge.com/members/maninthe_home/projects" target="_blank">maninthe_home</a></li>
    <ul>
@@ -428,7 +419,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -482,7 +472,64 @@
       </ul>
    </ul>
 </ul>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/philipmoddev/projects" target="_blank">philipmoddev</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="" target="_blank"></a></li>
+      </ul>
+   </ul>
+</ul>
 <br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/creepermax123/projects" target="_blank">creepermax123</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="" target="_blank"></a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/cmdrmcnuggets/projects" target="_blank">CmdrMCNuggets</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="" target="_blank"></a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/nocubeyt/projects" target="_blank">nocubeyt</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="" target="_blank"></a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
 
 
 
@@ -540,7 +587,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -868,7 +914,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -1505,7 +1550,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.curseforge.com/members/tterrag1098/projects" target="_blank">tterrag1098</a></li>
    <ul>
@@ -1516,7 +1560,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -1547,7 +1590,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -1620,7 +1662,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -1743,7 +1784,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.curseforge.com/members/sbom_xela/projects" target="_blank">sbom_xela</a></li>
    <ul>
@@ -1784,7 +1824,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -1845,7 +1884,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.curseforge.com/members/precisemodpacker/projects" target="_blank">precisemodpacker</a></li>
    <ul>
@@ -1856,7 +1894,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -1885,7 +1922,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -1978,7 +2014,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.curseforge.com/members/colderlavalamp/projects" target="_blank">colderlavalamp</a></li>
    <ul>
@@ -1989,7 +2024,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -2062,7 +2096,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -2199,8 +2232,6 @@
 
 
 
-
-
 <ul>
    <li><a href="https://www.curseforge.com/members/joosh_7889/projects" target="_blank">joosh_7889</a></li>
    <ul>
@@ -2239,7 +2270,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -2343,7 +2373,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.curseforge.com/members/circlef1sh/projects" target="_blank">circlef1sh</a></li>
    <ul>
@@ -2400,7 +2429,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -2537,7 +2565,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.curseforge.com/members/tissou/projects" target="_blank">Tissou</a></li>
    <ul>
@@ -2594,7 +2621,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.curseforge.com/members/techy69/projects" target="_blank">Techy69</a></li>
    <ul>
@@ -2633,7 +2659,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -2680,7 +2705,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.planetminecraft.com/member/kubban/projects" target="_blank">Kubban</a></li>
    <ul>
@@ -2718,7 +2742,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -2818,7 +2841,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -3051,7 +3073,6 @@
 
 
 
-
 <ul>
    <li><a href="https://www.curseforge.com/members/rozarke/projects" target="_blank">rozarke</a></li>
    <ul>
@@ -3062,7 +3083,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -3091,7 +3111,6 @@
    </ul>
 </ul>
 <br>
-
 
 
 
@@ -3161,10 +3180,3 @@
       </ul>
    </ul>
 </ul>
-<br>
-
-
-
-
-
-<ul>
