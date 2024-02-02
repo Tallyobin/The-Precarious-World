@@ -4,11 +4,12 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/issork/projects" target="_blank">issork</a></li>
+   <li><a href="https://www.curseforge.com/members/su5ed/projects" target="_blank">Su5eD</a></li>
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/astikorcarts" target="_blank">AstikorCarts [Horse Carts]</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/sinytra-connector" target="_blank">Sinytra Connector</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/somnia" target="_blank">Somnia Awoken</a></li>
       </ul>
    </ul>
 </ul>
@@ -18,15 +19,325 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/minecraft/mc-mods/rotten-creatures" target="_blank">Rotten Creatures</a></li>
+   <li><a href="https://www.curseforge.com/members/jusipat/projects" target="_blank">jusipat</a></li>
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/members/fusionstudiomc/projects" target="_blank">fusionstudiomc</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/astikor-carts-redux" target="_blank">AstikorCarts Redux</a></li>
       </ul>
    </ul>
 </ul>
 <br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/exidex/projects" target="_blank">exidex</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass" target="_blank">SwingThroughGrass</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/james_seibel/projects" target="_blank">James_Seibel</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/distant-horizons" target="_blank">Distant Horizons: A Level of Detail mod</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/duckycrayfish/projects" target="_blank">DuckyCrayfish</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/hourglass" target="_blank">Hourglass</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/fusionstudiomc/projects" target="_blank">fusionstudiomc</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/rotten-creatures" target="_blank">Rotten Creatures</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/ryfi_coder/projects" target="_blank">ryfi_coder</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/chatheads" target="_blank">ChatHeads</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/blewberrypie/projects" target="_blank">BlewberryPie</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/chimes" target="_blank">Chimes</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/trivaxy/projects" target="_blank">Trivaxy</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/tiny-item-animations" target="_blank">Tiny Item Animations</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/fionathemortal/projects" target="_blank">FionaTheMortal</a></li>
+   <ul>
+      <li>Modpacks</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-biome-blend" target="_blank">Better Biome Blend</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/mcl_ender/projects" target="_blank">mcl_ender</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm" target="_blank">L_Ender 's Cataclysm</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/yyonne/projects" target="_blank">yyonne</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod" target="_blank">Grappling Hook Mod</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/somi_e/projects" target="_blank">Somi_e</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/somies-variable-hats" target="_blank">Somie's variable hats</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/vectorwing/projects" target="_blank">vectorwing</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/farmers-delight" target="_blank">Farmer's Delight</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/detail-brush" target="_blank">Detail Brush</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/soft-weather" target="_blank">Soft Weather</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/refined-armor" target="_blank">Refined Armor</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/corgi_taco/projects" target="_blank">Corgi_Taco</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials" target="_blank">Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/upstream" target="_blank">Upstream</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/camera-overhaul-forge" target="_blank">CameraOverhaul (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix" target="_blank">Entity Collision FPS Fix</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge" target="_blank">Lazy DataFixerUpper(LazyDFU) [FORGE]</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/goby56/projects" target="_blank">Goby56</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/wakes" target="_blank">Wakes</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/ezzenix1/projects" target="_blank">ezzenix1</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/chatanimation" target="_blank">ChatAnimation</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/smooth-gui" target="_blank">Smooth Gui</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/gitsh01/projects" target="_blank">gitsh01</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/libertys-villagers" target="_blank">Liberty's Villagers</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/judge40/projects" target="_blank">Judge40</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-mobgriefing-gamerule" target="_blank">Better mobGriefing GameRule</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/emingtr/projects" target="_blank">EminGTR</a></li>
+   <ul>
+      <li>Shaders</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/shaders/complementary-reimagined" target="_blank">Complementary Shaders - Reimagined</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/dimensionaldevelopment/projects" target="_blank">DimensionalDevelopment</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors" target="_blank">DimensionalDoors</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/qouteall/projects" target="_blank">qouteall</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge" target="_blank">Immersive Portals (for Forge)</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -46,11 +357,27 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/yyonne/projects" target="_blank">yyonne</a></li>
+   <li><a href="https://www.curseforge.com/members/daedelus_dev/projects" target="_blank">daedelus_dev</a></li>
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod" target="_blank">Grappling Hook Mod</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus" target="_blank">Better Combat [Fabric & Forge]</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/vazkii/projects" target="_blank">Vazkii</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/autoreglib" target="_blank">AutoRegLib</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/patchouli" target="_blank">Patchouli</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark" target="_blank">Quark</a></li>
       </ul>
    </ul>
 </ul>
@@ -133,417 +460,12 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/qouteall/projects" target="_blank">qouteall</a></li>
+   <li><a href="https://www.curseforge.com/members/zekerzhayard/projects" target="_blank">ZekerZhayard</a></li>
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod" target="_blank">Immersive Portals</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/bstn/projects" target="_blank">bstn</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/autoreconnect" target="_blank">AutoReconnect</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/goby56/projects" target="_blank">Goby56</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/wakes" target="_blank">Wakes</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/trivaxy/projects" target="_blank">Trivaxy</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/tiny-item-animations" target="_blank">Tiny Item Animations</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/fionathemortal/projects" target="_blank">FionaTheMortal</a></li>
-   <ul>
-      <li>Modpacks</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-biome-blend" target="_blank">Better Biome Blend</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/mirsario/projects" target="_blank">Mirsario</a></li>
-   <ul>
-      <li>Modpacks</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul" target="_blank">CameraOverhaul</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/mcl_ender/projects" target="_blank">mcl_ender</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm" target="_blank">L_Ender 's Cataclysm</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/duckycrayfish/projects" target="_blank">DuckyCrayfish</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/hourglass" target="_blank">Hourglass</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/james_seibel/projects" target="_blank">James_Seibel</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/distant-horizons" target="_blank">Distant Horizons: A Level of Detail mod</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/azarbeat/projects" target="_blank">Azarbeat</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/azarbeats-edible-monsters" target="_blank">Azarbeat's Edible Monsters (Eat Zombies, Spiders, and much more!)</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/mechalopa/projects" target="_blank">Mechalopa</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/hostile-mobs-and-girls" target="_blank">Hostile Mobs and Girls (HMaG)</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/exidex/projects" target="_blank">exidex</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass" target="_blank">SwingThroughGrass</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/gitsh01/projects" target="_blank">gitsh01</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/libertys-villagers" target="_blank">Liberty's Villagers</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/officialymax/projects" target="_blank">OfficialyMax</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-clouds-forge" target="_blank">Better Clouds Forge - DEPRECATED</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/lfaoanl/projects" target="_blank">lfaoanl</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/market-crates" target="_blank">[Fabric/Forge] Market Crates (1.15 to 1.19)</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/blewberrypie/projects" target="_blank">BlewberryPie</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/chimes" target="_blank">Chimes</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/plummetstudios/projects" target="_blank">plummetstudios</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/lattices" target="_blank">Lattices</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/enecske/projects" target="_blank">enecske</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/modexplosingriefinggamerule" target="_blank">MobExplosionGriefingGamerule</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/emingtr/projects" target="_blank">EminGTR</a></li>
-   <ul>
-      <li>Shaders</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/shaders/complementary-reimagined" target="_blank">Complementary Shaders - Reimagined</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/frawzy/projects" target="_blank">Frawzy</a></li>
-   <ul>
-      <li>Resource Packs</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/texture-packs/enhanced-audio" target="_blank">Enhanced Audio (Sound Pack)</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/arkfeathers/projects" target="_blank">arkfeathers</a></li>
-   <ul>
-      <li>Resource Packs</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/texture-packs/feathers-better-village-pillage" target="_blank">Stylish Villager Players</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/alabasterleking/projects" target="_blank">AlabasterLeking</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/crabbers-delight" target="_blank">Crabber's Delight</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/ezzenix1/projects" target="_blank">ezzenix1</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/chatanimation" target="_blank">ChatAnimation</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/skyrina/projects" target="_blank">skyrina</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/figura" target="_blank">Figura</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/dimensionaldevelopment/projects" target="_blank">DimensionalDevelopment</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors" target="_blank">DimensionalDoors</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/alrex_u/projects" target="_blank">alRex_U</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/throwability" target="_blank">Throwability</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/_forgeuser9892496/projects" target="_blank">_ForgeUser9892496</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/bukkit-plugins/tomahawk" target="_blank">TomaHawk</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/ryfi_coder/projects" target="_blank">ryfi_coder</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/chatheads" target="_blank">ChatHeads</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/somi_e/projects" target="_blank">Somi_e</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/texture-packs/somies-variable-hats" target="_blank">Somie's variable hats</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/maninthe_home/projects" target="_blank">maninthe_home</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod" target="_blank">Epic Fight</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/autoreconnect-forge" target="_blank">AutoReconnect (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/optiforge" target="_blank">OptiForge</a></li>
       </ul>
    </ul>
 </ul>
@@ -606,6 +528,53 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/alborto06/projects" target="_blank">alborto06</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/plenty-of-golems" target="_blank">Plenty of Golems</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/mechalopa/projects" target="_blank">Mechalopa</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/hostile-mobs-and-girls" target="_blank">Hostile Mobs and Girls (HMaG)</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
 <ul>
    <li><a href="https://www.curseforge.com/members/philipmoddev/projects" target="_blank">philipmoddev</a></li>
    <ul>
@@ -626,6 +595,20 @@
       <li>Mods</li>
       <ul>
          <li><a href="" target="_blank"></a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://modrinth.com/user/qendolin" target="_blank">qendolin</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://modrinth.com/mod/better-clouds" target="_blank">Better Clouds</a></li>
       </ul>
    </ul>
 </ul>
@@ -656,20 +639,6 @@
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/treechop" target="_blank">HT's TreeChop</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/treeplant" target="_blank">HT's TreePlant</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/su5ed/projects" target="_blank">Su5eD</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/sinytra-connector" target="_blank">Sinytra Connector</a></li>
       </ul>
    </ul>
 </ul>
@@ -883,20 +852,6 @@
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/sodium" target="_blank">Sodium</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/lithium" target="_blank">Lithium (Fabric)</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/tuxed/projects" target="_blank">tuxed</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/lazydfu" target="_blank">LazyDFU</a></li>
       </ul>
    </ul>
 </ul>
@@ -1914,20 +1869,6 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/daedelus_dev/projects" target="_blank">daedelus_dev</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus" target="_blank">Better Combat [Fabric & Forge]</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
    <li><a href="https://www.curseforge.com/members/100media/projects" target="_blank">100media</a></li>
    <ul>
       <li>Mods</li>
@@ -2217,22 +2158,6 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/vazkii/projects" target="_blank">Vazkii</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/autoreglib" target="_blank">AutoRegLib</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/patchouli" target="_blank">Patchouli</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark" target="_blank">Quark</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
    <li><a href="https://www.curseforge.com/members/badasintended/projects" target="_blank">badasintended</a></li>
    <ul>
       <li>Mods</li>
@@ -2337,20 +2262,6 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/fairy-lights" target="_blank">Fairy Lights</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/vectorwing/projects" target="_blank">vectorwing</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/farmers-delight" target="_blank">Farmer's Delight</a></li>
       </ul>
    </ul>
 </ul>
@@ -2964,20 +2875,6 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-lights" target="_blank">Dynamic Lights</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/corgi_taco/projects" target="_blank">Corgi_Taco</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix" target="_blank">Entity Collision FPS Fix</a></li>
       </ul>
    </ul>
 </ul>
