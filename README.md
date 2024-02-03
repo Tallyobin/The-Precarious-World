@@ -373,6 +373,11 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus" target="_blank">Better Combat [Fabric & Forge]</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/combat-roll" target="_blank">Combat Roll [Fabric & Forge]</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/archers" target="_blank">Archers (RPG Series)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests" target="_blank">Paladins & Priests (RPG Series)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/wizards" target="_blank">Wizards (RPG Series)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/shield-overhaul" target="_blank">Shield Overhaul [Fabric/Forge]</a></li>
       </ul>
    </ul>
 </ul>
@@ -382,7 +387,42 @@
 
 
 <ul>
-   <li><a href="" target="_blank"></a></li>
+   <li><a href="https://www.curseforge.com/members/daedelus_dev/projects" target="_blank">daedelus_dev</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus" target="_blank">Better Combat [Fabric & Forge]</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/combat-roll" target="_blank">Combat Roll [Fabric & Forge]</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/archers" target="_blank">Archers (RPG Series)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests" target="_blank">Paladins & Priests (RPG Series)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/wizards" target="_blank">Wizards (RPG Series)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/shield-overhaul" target="_blank">Shield Overhaul [Fabric/Forge]</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/elocindev/projects" target="_blank">ElocinDev</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/you-shall-not-spawn" target="_blank">You Shall Not Spawn! [Forge/Fabric]</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/item-obliterator" target="_blank">Item Obliterator [Forge/Neo/Fabric/Quilt]</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/copper-overhaul" target="_blank">Copper Overhaul</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/kwpugh/projects" target="_blank">kwpugh</a></li>
    <ul>
       <li>Mods</li>
       <ul>
