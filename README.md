@@ -303,24 +303,6 @@
 
 
 
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/philipmoddev/projects" target="_blank">philipmoddev</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="" target="_blank"></a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
 <ul>
    <li><a href="https://www.curseforge.com/members/corgi_taco/projects" target="_blank">Corgi_Taco</a></li>
    <ul>
