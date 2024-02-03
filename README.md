@@ -315,7 +315,7 @@
       </ul>
    </ul>
 </ul>
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -375,9 +375,7 @@
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/autoreglib" target="_blank">AutoRegLib</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/patchouli" target="_blank">Patchouli</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark" target="_blank">Quark</a></li>
       </ul>
    </ul>
 </ul>
