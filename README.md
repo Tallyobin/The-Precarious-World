@@ -443,6 +443,8 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers" target="_blank">Realm RPG: Fallen Adventurers</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/pots-and-mimics-rpg" target="_blank">Realm RPG: Pots & Mimics</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/realm-rpg-creep-crop" target="_blank">Realm RPG: Creep & Crop</a></li>
       </ul>
    </ul>
 </ul>
