@@ -362,9 +362,6 @@
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus" target="_blank">Better Combat [Fabric & Forge]</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/combat-roll" target="_blank">Combat Roll [Fabric & Forge]</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/archers" target="_blank">Archers (RPG Series)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests" target="_blank">Paladins & Priests (RPG Series)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/wizards" target="_blank">Wizards (RPG Series)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/shield-overhaul" target="_blank">Shield Overhaul [Fabric/Forge]</a></li>
       </ul>
    </ul>
@@ -382,20 +379,6 @@
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/you-shall-not-spawn" target="_blank">You Shall Not Spawn! [Forge/Fabric]</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/item-obliterator" target="_blank">Item Obliterator [Forge/Neo/Fabric/Quilt]</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/copper-overhaul" target="_blank">Copper Overhaul</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/kwpugh/projects" target="_blank">kwpugh</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="" target="_blank"></a></li>
       </ul>
    </ul>
 </ul>
@@ -423,8 +406,29 @@
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/critters-and-companions" target="_blank">Critters and Companions</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul" target="_blank">Creeper Overhaul</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul" target="_blank">Enderman Overhaul</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts" target="_blank">Creatures and Beasts</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/critters-and-companions" target="_blank">Critters and Companions</a></li>
+      </ul>
+      <br>
+      <li>Resource Packs</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/better-mob-models" target="_blank">Better Mob Models</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/wadoo154/projects" target="_blank">wadoo154</a></li>
+   <ul>
+      <li>Resource Packs</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/creeper-overhaul-overhaul" target="_blank">Creeper Overhaul Overhaul</a></li>
       </ul>
    </ul>
 </ul>
@@ -553,12 +557,15 @@
 
 
 
+
+
+
 <ul>
-   <li><a href="https://www.curseforge.com/members/kiwiarg/projects" target="_blank">kiwiarg</a></li>
+   <li><a href="https://www.curseforge.com/members/kwpugh/projects" target="_blank">kwpugh</a></li>
    <ul>
-      <li>Resource Packs</li>
+      <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/texture-packs/sleeping-mobs-datapack" target="_blank">sleeping mobs DTP</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/gobber" target="_blank">Gobber [FORGE]</a></li>
       </ul>
    </ul>
 </ul>
@@ -601,6 +608,48 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/hostile-mobs-and-girls" target="_blank">Hostile Mobs and Girls (HMaG)</a></li>
+      </ul>
+   </ul>
+</ul>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/kiwiarg/projects" target="_blank">kiwiarg</a></li>
+   <ul>
+      <li>Resource Packs</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/sleeping-mobs-datapack" target="_blank">sleeping mobs DTP</a></li>
       </ul>
    </ul>
 </ul>
