@@ -33,34 +33,6 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/exidex/projects" target="_blank">exidex</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass" target="_blank">SwingThroughGrass</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/james_seibel/projects" target="_blank">James_Seibel</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/distant-horizons" target="_blank">Distant Horizons: A Level of Detail mod</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
    <li><a href="https://www.curseforge.com/members/duckycrayfish/projects" target="_blank">DuckyCrayfish</a></li>
    <ul>
       <li>Mods</li>
@@ -122,20 +94,6 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/tiny-item-animations" target="_blank">Tiny Item Animations</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/fionathemortal/projects" target="_blank">FionaTheMortal</a></li>
-   <ul>
-      <li>Modpacks</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-biome-blend" target="_blank">Better Biome Blend</a></li>
       </ul>
    </ul>
 </ul>
@@ -272,11 +230,12 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/qouteall/projects" target="_blank">qouteall</a></li>
+   <li><a href="https://www.curseforge.com/members/zekerzhayard/projects" target="_blank">ZekerZhayard</a></li>
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge" target="_blank">Immersive Portals (for Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/autoreconnect-forge" target="_blank">AutoReconnect (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/optiforge" target="_blank">OptiForge</a></li>
       </ul>
    </ul>
 </ul>
@@ -299,6 +258,50 @@
 
 
 
+
+
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/fionathemortal/projects" target="_blank">FionaTheMortal</a></li>
+   <ul>
+      <li>Modpacks</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-biome-blend" target="_blank">Better Biome Blend</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/james_seibel/projects" target="_blank">James_Seibel</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/distant-horizons" target="_blank">Distant Horizons: A Level of Detail mod</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/qouteall/projects" target="_blank">qouteall</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge" target="_blank">Immersive Portals (for Forge)</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
 
 
 
@@ -339,45 +342,11 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/zekerzhayard/projects" target="_blank">ZekerZhayard</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/autoreconnect-forge" target="_blank">AutoReconnect (Forge)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/optiforge" target="_blank">OptiForge</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
    <li><a href="https://www.curseforge.com/members/sweenuss/projects" target="_blank">sweenuss</a></li>
    <ul>
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/simply-swords" target="_blank">Simply Swords [Fabric & Forge]</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/daedelus_dev/projects" target="_blank">daedelus_dev</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus" target="_blank">Better Combat [Fabric & Forge]</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/combat-roll" target="_blank">Combat Roll [Fabric & Forge]</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/archers" target="_blank">Archers (RPG Series)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests" target="_blank">Paladins & Priests (RPG Series)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/wizards" target="_blank">Wizards (RPG Series)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/shield-overhaul" target="_blank">Shield Overhaul [Fabric/Forge]</a></li>
       </ul>
    </ul>
 </ul>
@@ -579,6 +548,21 @@
 
 
 
+
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/kiwiarg/projects" target="_blank">kiwiarg</a></li>
+   <ul>
+      <li>Resource Packs</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/sleeping-mobs-datapack" target="_blank">sleeping mobs DTP</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
 
 
 
