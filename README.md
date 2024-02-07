@@ -530,7 +530,6 @@
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons" target="_blank">YUNG's Better Dungeons (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds" target="_blank">YUNG's Better Strongholds (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/paxi" target="_blank">Paxi (Forge)</a></li>
-         <li><a href="" target="_blank"></a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves" target="_blank">YUNG's Better Caves (Forge)</a></li>
       </ul>
       <br>
@@ -702,6 +701,22 @@
 
 
 
+
+
+
+
+
+
+<ul>
+   <li><a href="https://www.planetminecraft.com/member/_bumbee/" target="_blank">_Bumbee</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.planetminecraft.com/texture-pack/revamped-armor/" target="_blank">Revamped Armor</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
 
 
 
