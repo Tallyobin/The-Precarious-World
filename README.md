@@ -264,6 +264,9 @@
 
 
 
+
+
+
 <ul>
    <li><a href="https://www.curseforge.com/members/fionathemortal/projects" target="_blank">FionaTheMortal</a></li>
    <ul>
@@ -454,11 +457,13 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/creepermax123/projects" target="_blank">creepermax123</a></li>
+   <li><a href="https://www.curseforge.com/members/infernalstudios/projects" target="_blank">InfernalStudios</a></li>
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/texture-packs/better-skeletons" target="_blank">Better Skeletons</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/shield-expansion" target="_blank">Shield Expansion</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/combat-bash" target="_blank">Combat Bash</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/food-effects" target="_blank">Food Effects</a></li>
       </ul>
    </ul>
 </ul>
@@ -472,9 +477,9 @@
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/enemy-expansion" target="_blank">Enemy Expansion</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/sun-and-moon-celestial-configuration" target="_blank">Sun and Moon Celestial Configuration</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/shield-expansion" target="_blank">Shield Expansion</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books" target="_blank">Neko's Enchanted Books</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/second-chance-forge" target="_blank">Second Chance (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/nekos-enhanced-tools-and-armor" target="_blank">Neko's Enhanced Tools and Armor</a></li>
       </ul>
    </ul>
 </ul>
@@ -488,9 +493,9 @@
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/amplified-nether" target="_blank">Amplified Nether</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/terralith" target="_blank">Terralith</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/continents" target="_blank">Continents</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/structory" target="_blank">Structory</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/nullscape" target="_blank">Nullscape</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/incendium" target="_blank">Incendium</a></li>
       </ul>
       <br>
@@ -510,25 +515,42 @@
    <ul>
       <li>Mods</li>
       <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-api" target="_blank">YUNG's API (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/travelers-titles" target="_blank">Traveler's Titles (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island" target="_blank">YUNG's Better End Island (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments" target="_blank">YUNG's Better Ocean Monuments (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge" target="_blank">YUNG's Better Mineshafts (Forge)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-api" target="_blank">YUNG's API (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-menu-tweaks" target="_blank">YUNG's Menu Tweaks (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples" target="_blank">YUNG's Better Jungle Temples (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses" target="_blank">YUNG's Better Nether Fortresses (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-bridges" target="_blank">YUNG's Bridges (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-extras" target="_blank">YUNG's Extras (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts" target="_blank">YUNG's Better Witch Huts (Forge)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island" target="_blank">YUNG's Better End Island (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples" target="_blank">YUNG's Better Desert Temples (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons" target="_blank">YUNG's Better Dungeons (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds" target="_blank">YUNG's Better Strongholds (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/paxi" target="_blank">Paxi (Forge)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/travelers-titles" target="_blank">Traveler's Titles (Forge)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-portals" target="_blank">YUNG's Better Portals (Forge)</a></li>
+         <li><a href="" target="_blank"></a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves" target="_blank">YUNG's Better Caves (Forge)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold" target="_blank">Save My Stronghold! (Forge)</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-law" target="_blank">YUNG's Law (Forge)</a></li>
+      </ul>
+      <br>
+      <li>Resource Packs</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/yungs-better-dungeons-resource-pack" target="_blank">YUNG's Better Dungeons Resource Pack</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/un_roman/projects" target="_blank">un_roman</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/visual-travelers-titles" target="_blank">Visual Traveler's Titles</a></li>
       </ul>
    </ul>
 </ul>
@@ -558,6 +580,49 @@
 
 
 
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/mcjty/projects" target="_blank">McJty</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/in-control" target="_blank">In Control!</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/insane96/projects" target="_blank">Insane96</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="" target="_blank"></a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/creepermax123/projects" target="_blank">creepermax123</a></li>
+   <ul>
+      <li>Resource Packs</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/maxs-better-mobs" target="_blank">Max's Better Mobs</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/malicious-mushrooms" target="_blank">Malicious Mushrooms</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
 
 
 
@@ -641,11 +706,6 @@
 
 
 
-
-
-
-
-
 <ul>
    <li><a href="https://www.curseforge.com/members/kiwiarg/projects" target="_blank">kiwiarg</a></li>
    <ul>
@@ -662,6 +722,34 @@
 
 <ul>
    <li><a href="https://www.curseforge.com/members/cmdrmcnuggets/projects" target="_blank">CmdrMCNuggets</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="" target="_blank"></a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/the_infamous_1/projects" target="_blank">the_infamous_1</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="" target="_blank"></a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/chronos_sacaria/projects" target="_blank">chronos_sacaria</a></li>
    <ul>
       <li>Mods</li>
       <ul>
