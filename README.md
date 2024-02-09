@@ -478,8 +478,21 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books" target="_blank">Neko's Enchanted Books</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/second-chance-forge" target="_blank">Second Chance (Forge)</a></li>
          <li><a href="https://www.curseforge.com/minecraft/texture-packs/nekos-enhanced-tools-and-armor" target="_blank">Neko's Enhanced Tools and Armor</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/helliongames/projects" target="_blank">HellionGames</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/second-chance-forge" target="_blank">Second Chance (Forge)</a></li>
       </ul>
    </ul>
 </ul>
@@ -494,7 +507,6 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/terralith" target="_blank">Terralith</a></li>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/structory" target="_blank">Structory</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/nullscape" target="_blank">Nullscape</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/incendium" target="_blank">Incendium</a></li>
       </ul>
@@ -502,6 +514,20 @@
       <li>Customization</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/customization/remove-terralith-intro-message" target="_blank">Remove Terralith Intro Message</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/botanydev/projects" target="_blank">botanydev</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/structory" target="_blank">Structory</a></li>
       </ul>
    </ul>
 </ul>
@@ -1728,6 +1754,7 @@
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/villager-names" target="_blank">Villager Names</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/collective" target="_blank">Collective</a></li>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/biome-spawn-point" target="_blank">Biome Spawn Point</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/village-spawn-point" target="_blank">Village Spawn Point</a></li>
       </ul>
    </ul>
 </ul>
