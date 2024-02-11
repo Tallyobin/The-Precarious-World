@@ -9,7 +9,26 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/sinytra-connector" target="_blank">Sinytra Connector</a></li>
+         <details>
+            <summary>All Mods Versions</summary>
+            <ul>
+               <li>1.20.1</li>
+            </ul>
+         </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/somnia" target="_blank">Somnia Awoken</a></li>
+         <details>
+            <summary>All Mods Versions</summary>
+            <ul>
+               <li>1.20.4</li>
+               <li>1.20.1</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.12.2</li>
+            </ul>
+         </details>
       </ul>
    </ul>
 </ul>
@@ -493,6 +512,7 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/second-chance-forge" target="_blank">Second Chance (Forge)</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/mc-mods/hellions-sniffer" target="_blank">Hellion's Sniffer+</a></li>
       </ul>
    </ul>
 </ul>
@@ -528,6 +548,10 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/structory" target="_blank">Structory</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/better-botanicals-vegetation" target="_blank">Better Botanicals: Vegetation</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/better-botanicals-3d-crops" target="_blank">Better Botanicals: 3D Crops</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/better-botanicals-lumber-woodstuffs" target="_blank">Better Botanicals: Lumber & Woodstuffs</a></li>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/better-botanicals-3d-mushrooms" target="_blank">Better Botanicals: 3D Mushrooms</a></li>
       </ul>
    </ul>
 </ul>
@@ -704,6 +728,7 @@
    </ul>
 </ul>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
 
