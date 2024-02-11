@@ -1,4 +1,8 @@
 # Authors
+
+
+
+
 <ul>
    <li><a href="https://www.curseforge.com/members/su5ed/projects" target="_blank">Su5eD</a></li>
    <ul>
@@ -29,6 +33,10 @@
    </ul>
 </ul>
 <br>
+
+
+
+
 <ul>
    <li><a href="https://www.curseforge.com/members/jusipat/projects" target="_blank">jusipat</a></li>
    <ul>
@@ -45,6 +53,10 @@
    </ul>
 </ul>
 <br>
+
+
+
+
 <ul>
    <li><a href="https://www.curseforge.com/members/duckycrayfish/projects" target="_blank">DuckyCrayfish</a></li>
    <ul>
