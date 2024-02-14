@@ -46,7 +46,9 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
             </ul>
          </details>
       </ul>
@@ -66,7 +68,22 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.17.1</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
             </ul>
          </details>
       </ul>
@@ -86,7 +103,10 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.15.2</li>
+               <li>1.14.4</li>
             </ul>
          </details>
       </ul>
@@ -106,7 +126,10 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.4</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
             </ul>
          </details>
       </ul>
@@ -126,7 +149,21 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.17.1</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
             </ul>
          </details>
       </ul>
@@ -146,7 +183,23 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.4</li>
+               <li>1.20.3</li>
+               <li>1.20.3-Snapshot</li>
+               <li>1.20.2</li>
+               <li>1.20.2-Snapshot</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.20-Snapshot</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.19-Snapshot</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
             </ul>
          </details>
       </ul>
@@ -166,7 +219,12 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.16.5</li>
             </ul>
          </details>
       </ul>
@@ -186,7 +244,36 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
+               <li>1.16</li>
+               <li>1.12.2</li>
+               <li>1.12.1</li>
+               <li>1.12</li>
+               <li>1.11.2</li>
+               <li>1.11</li>
+               <li>1.10.2</li>
+               <li>1.10.1</li>
+               <li>1.10</li>
+               <li>1.9.4</li>
+               <li>1.9</li>
+               <li>1.8.9</li>
+               <li>1.8.8</li>
+               <li>1.8</li>
+               <li>1.7.10</li>
             </ul>
          </details>
       </ul>
@@ -200,13 +287,35 @@
 <ul>
    <li><a href="https://www.curseforge.com/members/somi_e/projects" target="_blank">Somi_e</a></li>
    <ul>
-      <li>Mods</li>
+      <li>Resource Packs</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/texture-packs/somies-variable-hats" target="_blank">Somie's variable hats</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.19-Snapshot</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.18-Snapshot</li>
+               <li>1.17.1</li>
+               <li>1.17-Snapshot</li>
+               <li>1.17</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
+               <li>1.16</li>
+               <li>1.16-Snapshot</li>
+               <li>1.15.2</li>
+               <li>1.15.1</li>
+               <li>1.15</li>
+               <li>1.15-Snapshot</li>
+               <li>1.14.4</li>
             </ul>
          </details>
       </ul>
@@ -226,7 +335,12 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.4</li>
+               <li>1.20.3</li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.2</li>
             </ul>
          </details>
       </ul>
@@ -246,14 +360,22 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.4</li>
+               <li>1.20.3</li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/smooth-gui" target="_blank">Smooth Gui</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.4</li>
+               <li>1.20.3</li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
             </ul>
          </details>
       </ul>
@@ -273,7 +395,12 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
             </ul>
          </details>
       </ul>
@@ -293,7 +420,16 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.16.5</li>
+               <li>1.16.3</li>
+               <li>1.15.2</li>
+               <li>1.14.4</li>
+               <li>1.12.2</li>
+               <li>1.11.2</li>
+               <li>1.10.2</li>
+               <li>1.9.4</li>
+               <li>1.8.9</li>
+               <li>1.7.10</li>
             </ul>
          </details>
       </ul>
@@ -313,7 +449,29 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>Iris</li>
+               <li>OptiFine</li>
+               <li>1.20.4</li>
+               <li>1.20.3</li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.17.1</li>
+               <li>1.16.5</li>
+               <li>1.15.2</li>
+               <li>1.14.4</li>
+               <li>1.13.2</li>
+               <li>1.12.2</li>
+               <li>1.11.2</li>
+               <li>1.10.2</li>
+               <li>1.9.4</li>
+               <li>1.8.9</li>
             </ul>
          </details>
       </ul>
@@ -333,7 +491,17 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.17.1</li>
+               <li>1.17-Snapshot</li>
+               <li>1.17</li>
+               <li>1.12.2</li>
+               <li>1.12.1</li>
+               <li>1.12</li>
             </ul>
          </details>
       </ul>
@@ -353,14 +521,22 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/optiforge" target="_blank">OptiForge</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.17.1</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
+               <li>1.15.2</li>
+               <li>1.14.4</li>
             </ul>
          </details>
       </ul>
@@ -406,7 +582,14 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.17.1</li>
+               <li>1.17</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.12.2</li>
             </ul>
          </details>
       </ul>
@@ -426,7 +609,19 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.17.1</li>
+               <li>1.17</li>
+               <li>1.16.5</li>
             </ul>
          </details>
       </ul>
@@ -446,7 +641,11 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.15.2</li>
+               <li>1.14.4</li>
             </ul>
          </details>
       </ul>
@@ -466,35 +665,73 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.17.1</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/upstream" target="_blank">Upstream</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/camera-overhaul-forge" target="_blank">CameraOverhaul (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
+               <li>1.16</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix" target="_blank">Entity Collision FPS Fix</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.16.5</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge" target="_blank">Lazy DataFixerUpper(LazyDFU) [FORGE]</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.17.1</li>
+               <li>1.17</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
             </ul>
          </details>
       </ul>
@@ -514,28 +751,77 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.17.1</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.1</li>
+               <li>1.15.2</li>
             </ul>
          </details>
+      </ul>
+      <br>
+      <li>Resource Packs</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/texture-packs/detail-brush" target="_blank">Detail Brush</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.20-Snapshot</li>
+               <li>1.19.4-Snapshot</li>
+               <li>1.19.3-Snapshot</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.19-Snapshot</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.18-Snapshot</li>
+               <li>1.17</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
+               <li>1.16</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/texture-packs/soft-weather" target="_blank">Soft Weather</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
-            </ul>
-         </details>
-         <li><a href="https://www.curseforge.com/minecraft/texture-packs/refined-armor" target="_blank">Refined Armor</a></li>
-         <details>
-            <summary>All Mods Versions</summary>
-            <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.20-Snapshot</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.19-Snapshot</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.18-Snapshot</li>
+               <li>1.17.1</li>
+               <li>1.17-Snapshot</li>
+               <li>1.17</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
+               <li>1.16</li>
+               <li>1.16-Snapshot</li>
             </ul>
          </details>
       </ul>
@@ -555,7 +841,15 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
             </ul>
          </details>
       </ul>
@@ -575,21 +869,49 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/combat-roll" target="_blank">Combat Roll [Fabric & Forge]</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.16.5</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/shield-overhaul" target="_blank">Shield Overhaul [Fabric/Forge]</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.2-Snapshot</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.20-Snapshot</li>
+               <li>1.19.4-Snapshot</li>
+               <li>1.19.3-Snapshot</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.19-Snapshot</li>
             </ul>
          </details>
       </ul>
@@ -609,21 +931,51 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.20-Snapshot</li>
+               <li>1.19.4-Snapshot</li>
+               <li>1.19.3-Snapshot</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.19-Snapshot</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.18-Snapshot</li>
+               <li>1.17.1</li>
+               <li>1.17-Snapshot</li>
+               <li>1.17</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/item-obliterator" target="_blank">Item Obliterator [Forge/Neo/Fabric/Quilt]</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.2</li>
+               <li>1.20.2-Snapshot</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.20-Snapshot</li>
+               <li>1.19.4-Snapshot</li>
+               <li>1.19.3-Snapshot</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/copper-overhaul" target="_blank">Copper Overhaul</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
             </ul>
          </details>
       </ul>
@@ -643,7 +995,22 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.17.1</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
+               <li>1.15.2</li>
+               <li>1.14.4</li>
+               <li>1.12.2</li>
             </ul>
          </details>
       </ul>
@@ -663,28 +1030,44 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.18-Snapshot</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul" target="_blank">Enderman Overhaul</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.19.2</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts" target="_blank">Creatures and Beasts</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/critters-and-companions" target="_blank">Critters and Companions</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
             </ul>
          </details>
       </ul>
@@ -695,7 +1078,14 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.4-Snapshot</li>
+               <li>1.19.3-Snapshot</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.19-Snapshot</li>
             </ul>
          </details>
       </ul>
@@ -715,7 +1105,8 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
             </ul>
          </details>
       </ul>
@@ -735,21 +1126,38 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.19.4</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.16.5</li>
+               <li>1.15.2</li>
+               <li>1.14.4</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/pots-and-mimics-rpg" target="_blank">Realm RPG: Pots & Mimics</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.19.4</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.17.1</li>
+               <li>1.16.5</li>
+               <li>1.15.2</li>
+               <li>1.14.4</li>
+               <li>1.12.2</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/realm-rpg-creep-crop" target="_blank">Realm RPG: Creep & Crop</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.19.4</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
             </ul>
          </details>
       </ul>
@@ -769,21 +1177,35 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.19.4</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/combat-bash" target="_blank">Combat Bash</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.2</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/food-effects" target="_blank">Food Effects</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.16.5</li>
             </ul>
          </details>
       </ul>
@@ -803,14 +1225,36 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.17.1</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
+               <li>1.16</li>
             </ul>
          </details>
+      </ul>
+      <br>
+      <li>Resource Packs</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/texture-packs/nekos-enhanced-tools-and-armor" target="_blank">Neko's Enhanced Tools and Armor</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
             </ul>
          </details>
       </ul>
@@ -830,14 +1274,25 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.16.5</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/hellions-sniffer" target="_blank">Hellion's Sniffer+</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.20-Snapshot</li>
             </ul>
          </details>
       </ul>
@@ -857,21 +1312,57 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.4</li>
+               <li>1.20.3</li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.17.1</li>
+               <li>1.17</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/nullscape" target="_blank">Nullscape</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.4</li>
+               <li>1.20.3</li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/incendium" target="_blank">Incendium</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.4</li>
+               <li>1.20.3</li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
             </ul>
          </details>
       </ul>
@@ -882,7 +1373,9 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
             </ul>
          </details>
       </ul>
@@ -902,35 +1395,55 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.2</li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
             </ul>
          </details>
+      </ul>
+      <br>
+      <li>Resource Packs</li>
+      <ul>
          <li><a href="https://www.curseforge.com/minecraft/texture-packs/better-botanicals-vegetation" target="_blank">Better Botanicals: Vegetation</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.18-Snapshot</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/texture-packs/better-botanicals-3d-crops" target="_blank">Better Botanicals: 3D Crops</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.18-Snapshot</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/texture-packs/better-botanicals-lumber-woodstuffs" target="_blank">Better Botanicals: Lumber & Woodstuffs</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.18-Snapshot</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/texture-packs/better-botanicals-3d-mushrooms" target="_blank">Better Botanicals: 3D Mushrooms</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.18-Snapshot</li>
             </ul>
          </details>
       </ul>
@@ -950,112 +1463,233 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/travelers-titles" target="_blank">Traveler's Titles (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island" target="_blank">YUNG's Better End Island (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments" target="_blank">YUNG's Better Ocean Monuments (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge" target="_blank">YUNG's Better Mineshafts (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
+               <li>1.16</li>
+               <li>1.15.2</li>
+               <li>1.15</li>
+               <li>1.12.2</li>
+               <li>1.12</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-menu-tweaks" target="_blank">YUNG's Menu Tweaks (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples" target="_blank">YUNG's Better Jungle Temples (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.2</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses" target="_blank">YUNG's Better Nether Fortresses (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-bridges" target="_blank">YUNG's Bridges (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-extras" target="_blank">YUNG's Extras (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts" target="_blank">YUNG's Better Witch Huts (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples" target="_blank">YUNG's Better Desert Temples (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons" target="_blank">YUNG's Better Dungeons (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds" target="_blank">YUNG's Better Strongholds (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/paxi" target="_blank">Paxi (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.20.1</li>
+               <li>1.20</li>
+               <li>1.19.4</li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16</li>
             </ul>
          </details>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves" target="_blank">YUNG's Better Caves (Forge)</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
+               <li>1.16</li>
+               <li>1.15.2</li>
+               <li>1.14.4</li>
+               <li>1.14</li>
+               <li>1.12.2</li>
+               <li>1.12</li>
             </ul>
          </details>
       </ul>
@@ -1066,7 +1700,9 @@
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
             </ul>
          </details>
       </ul>
@@ -1080,13 +1716,25 @@
 <ul>
    <li><a href="https://www.curseforge.com/members/un_roman/projects" target="_blank">un_roman</a></li>
    <ul>
-      <li>Mods</li>
+      <li>Resource Packs</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/texture-packs/visual-travelers-titles" target="_blank">Visual Traveler's Titles</a></li>
          <details>
             <summary>All Mods Versions</summary>
             <ul>
-               <li></li>
+               <li>1.19.3</li>
+               <li>1.19.2</li>
+               <li>1.19.1</li>
+               <li>1.19</li>
+               <li>1.18.2</li>
+               <li>1.18.1</li>
+               <li>1.18</li>
+               <li>1.16.5</li>
+               <li>1.16.4</li>
+               <li>1.16.3</li>
+               <li>1.16.2</li>
+               <li>1.16.1</li>
+               <li>1.16</li>
             </ul>
          </details>
       </ul>
